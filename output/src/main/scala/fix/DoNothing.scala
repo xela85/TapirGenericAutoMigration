@@ -1,0 +1,5 @@
+package fix
+
+class DoNothing {
+
+}
